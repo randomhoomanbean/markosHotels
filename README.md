@@ -1,3 +1,4 @@
 # markosHotels
-Modified Discord Bot comission\n
-No token included
+# Modified Discord Bot comission
+# No token included
+# Features include basic moderation system + Roblox-Discord verification
