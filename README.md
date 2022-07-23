@@ -1,3 +1,3 @@
 # markosHotels
-Modified Discord Bot comission
+Modified Discord Bot comission\n
 No token included
